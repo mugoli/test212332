@@ -7,7 +7,7 @@
 
 /* Base styles */
 body {
-  font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
+  font-family: 'Nimbus Mono PS', 'Courier New', monospace;
   background: #ffffff;
   color: #111;
   line-height: 1.6;
